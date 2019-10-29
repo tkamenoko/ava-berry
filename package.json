@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/tkamenoko/ava-berry.git",
   "author": "T. Kameyama <tkamenoko@vivaldi.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
 }
