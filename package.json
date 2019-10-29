@@ -1,0 +1,8 @@
+{
+  "name": "ava-berry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tkamenoko/ava-berry.git",
+  "author": "T. Kameyama <tkamenoko@vivaldi.net>",
+  "license": "MIT"
+}
