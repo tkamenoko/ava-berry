@@ -6,8 +6,10 @@
   "author": "T. Kameyama <tkamenoko@vivaldi.net>",
   "license": "MIT",
   "devDependencies": {
-    "@yarnpkg/pnpify": "^2.0.0-rc.7",
-    "ava": "^2.4.0"
+    "@babel/core": "^7.8.7",
+    "@types/babel__core": "7.1.6",
+    "@yarnpkg/pnpify": "2.0.0-rc.19",
+    "ava": "^3.5.0"
   },
   "scripts": {
     "test": "ava",
